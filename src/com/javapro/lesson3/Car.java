@@ -1,4 +1,4 @@
-package task5;
+package com.javapro.lesson3;
 
 public class Car {
 

@@ -1,4 +1,4 @@
-package task123;
+package com.javapro.lesson3;
 
 public class Employee {
 
