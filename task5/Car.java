@@ -1,11 +1,11 @@
 package task5;
 
 public class Car {
+
     public void start() {
         startElectricity();
         startCommand();
         startFuelSystem();
-
     }
 
     private void startElectricity() {
@@ -16,6 +16,4 @@ public class Car {
 
     private void startFuelSystem() {
     }
-
-
 }
